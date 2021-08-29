@@ -16,4 +16,3 @@ A companion for RPG books.
 ### Tecnologies to use
 - [ ] BLoC
 - [ ] Firebase
-
